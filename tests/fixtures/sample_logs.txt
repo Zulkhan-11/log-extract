@@ -1,0 +1,5 @@
+192.168.1.1 - frank [10/Oct/2023:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 2326
+192.168.1.2 - alice [10/Oct/2023:13:56:12 +0000] "POST /api/login HTTP/1.1" 201 145
+10.0.0.5 - bob [10/Oct/2023:14:01:23 +0000] "GET /images/logo.png HTTP/1.1" 304 0
+172.16.0.10 - - [10/Oct/2023:14:15:45 +0000] "DELETE /api/users/123 HTTP/1.1" 204 0
+192.168.1.1 - frank [10/Oct/2023:14:22:11 +0000] "GET /dashboard HTTP/1.1" 200 5432
